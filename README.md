@@ -10,7 +10,8 @@ c. change in the source area (assuming the "identical" ray path) -- fault healin
 # waveform cross-correlation 
 A few scripts for measuring the cross-correlation (or using obspy built-in tool)
 check the following two commands: 
-sac_wfcc and wfcc
+make
+then type: sac_wfcc and wfcc
 
 # coherence 
 A modified script from K. Materna (2018, GRL). The difference between coherence and cross-correlation: 
